@@ -1,4 +1,6 @@
-# Add a lot of Cards on Quizlet Automatically
+# (OUTDATED) New Chrome Extension and Script at [1]: https://github.com/AndrianiP/MultiCard-Add 
+
+# Add a lot of Cards on Quizlet Automatically 
 Allows User to set a number of cards to add on Quizlet automatically without having to click multiple times.
 
 ### How to Use
